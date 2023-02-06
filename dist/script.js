@@ -8,7 +8,7 @@ $(document).ready(function(){
       oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
-      title:"Cro Magnon Man",
+      title:"prosze",
       artist:"The Stark Palace",
       mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
       oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
