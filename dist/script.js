@@ -9,12 +9,12 @@ $(document).ready(function(){
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
       title:"prosze",
-      artist:"The Stark Palace",
+      artist:"dzialaj",
       mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
       oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
       poster: "https://i.imgur.com/lXvsuBu.png"
     },{
-      title:"Bubble",
+      title:"wybuch",
       m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
       oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
       poster: "https://i.imgur.com/klJKSVZ.jpg"
