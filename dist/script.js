@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
+      title:"zabije",
+      artist:"sie",
       mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
       oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
       poster: "https://i.imgur.com/sCbrzQa.png"
